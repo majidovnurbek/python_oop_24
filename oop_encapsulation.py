@@ -1,4 +1,4 @@
-#Encapsulation
+# Encapsulation
 class Card:
     def __init__(self, fullname, age, country, address, gender, userid):
         self.fullname = fullname
